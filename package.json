@@ -1,0 +1,22 @@
+{
+  "name": "eventbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "koa": "^2.5.0",
+    "nodemon": "^1.17.2"
+  },
+  "devDependencies": {
+    "babel-preset-latest-node": "0.2.2",
+    "babel-preset-stage-3": "6.24.1"
+  }
+}
